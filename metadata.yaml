@@ -1,0 +1,25 @@
+_repo: Vane-of-the-Timberlands_9778
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bindloss, Harold
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '1256'
+    url: http://www.gutenberg.org/2009/agents/1256
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Edward_Bindloss
+description: Published in England as 'The Protector'.
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9778'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'British Columbia -- Fiction'
+- GITenberg
+title: Vane of the Timberlands
+url: http://www.gutenberg.org/ebooks/9778
